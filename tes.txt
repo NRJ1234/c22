@@ -1,0 +1,8 @@
+z=`expr $1 + $2`
+echo "$z"
+y=`expr $1 - $2`
+echo "$y"
+y=`expr $1 \* $2`
+echo "$y"
+y=`expr $1 / $2`
+echo  "$y"
